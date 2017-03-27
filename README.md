@@ -1,7 +1,5 @@
 # _*Fetch API Calls*_
 
-### INTRODUCTION
-
 Web developers often need the ability to retrieve data to update a web based application asynchronously. Traditionally, XMLHttpRequest was used to make these requests. The XMLHttpRequest (XHR) object supports a variety of scenarios involving transferring data to and from a server by sending requests. An example of an XMLHttpRequest may look like this:
 
 ```function successListener() {  
